@@ -1,0 +1,7 @@
+message PidSetReq
+{
+  uint32 requestId = 1;
+  double p = 2;
+  double i = 3;
+  double d = 4;
+}
