@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message PidSetResp
+{
+  uint32 requestId = 1;
+  bool rogerThat = 2;
+}

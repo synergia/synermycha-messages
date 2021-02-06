@@ -1,3 +1,5 @@
+syntax = "proto3";
+
 message PidSetReq
 {
   uint32 requestId = 1;
